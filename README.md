@@ -1,7 +1,7 @@
 bagaimana cara installnya ?
 
 Pertamatama anda harus dowload filenya terlebihdahulu dengan menjalankan command.
-'git clone https://github.com/isaacnewton123/Real-Time-Comment'
+ ```sh git clone https://github.com/isaacnewton123/Real-Time-Comment
 
 setelah itu , ada harus masuk ke dama directorynya menggunakan command 
 'cd Real-Time-Comment'
